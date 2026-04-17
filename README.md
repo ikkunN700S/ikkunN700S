@@ -11,5 +11,3 @@ I run a Minecraft server.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikkunN700S&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikkunN700S&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-1
-<img src="https://github-profile-trophy.vercel.app/?username=ikkunN700S&theme=juicyfresh&no-bg=true" />
