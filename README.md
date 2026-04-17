@@ -1,9 +1,11 @@
-# ikkunN700S [![GitHub followers](https://img.shields.io/github/followers/ikkunN700S?label=Follow&style=social)]()
+# ikkunN700S <img src="https://img.shields.io/github/followers/ikkunN700S?label=Follow&style=social">
 
 I'm a web developer. I'm interested in creating music, movie, web sites.
 
 ## Languages & Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]() [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]() [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)]()
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
 
 I run a Minecraft server.
 
